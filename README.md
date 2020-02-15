@@ -16,8 +16,7 @@ If you want to activate these features in another project:
 {
 	"dependencies": {
 		"com.unity.vectorgraphics": "2.0.0-preview.11"
-	},
-	"registry": "https://staging-packages.unity.com"
+	}
 }
 ```
 4. Back in Unity, the package will be downloaded and imported. 
